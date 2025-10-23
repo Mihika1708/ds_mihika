@@ -59,3 +59,9 @@ https://outputs/pnl_distribution.png
 Full Report: ds_report.pdf - Detailed analysis and recommendations
 Code: notebook_1.ipynb - Complete reproducible analysis
 Data: csv_files/ - Cleaned and processed datasets
+
+## How to reproduce
+1. Clone this repo  
+2. Open `notebook_1.ipynb` in Google Colab (link)  
+3. Ensure you have the datasets in `csv_files/`  
+4. Run all cells => outputs will appear in `outputs/` folder  
