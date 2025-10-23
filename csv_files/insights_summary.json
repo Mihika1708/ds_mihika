@@ -1,0 +1,16 @@
+{
+  "key_findings": {
+    "highest_profit_sentiment": "Greed",
+    "lowest_profit_sentiment": "Extreme Greed",
+    "highest_volume_sentiment": "Fear",
+    "highest_success_sentiment": "Neutral",
+    "strongest_correlation": "Size_USD vs Leverage (0.94)",
+    "sentiment_price_correlation": -0.61
+  },
+  "dataset_quality": {
+    "main_records": 18358,
+    "profitability_records": 6360,
+    "zero_pnl_percentage": 65.4,
+    "date_range": "2023-11-14 to 2025-02-19"
+  }
+}
