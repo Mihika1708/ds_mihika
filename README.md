@@ -62,6 +62,6 @@ Data: csv_files/ - Cleaned and processed datasets
 
 ## How to reproduce
 1. Clone this repo  
-2. Open `notebook_1.ipynb` in Google Colab (link)  
+2. Open `notebook_1.ipynb` in Google Colab (https://colab.research.google.com/drive/1qU5VonTCM0Wn7496isoVYWWqD7LoCesZ?usp=sharing)  
 3. Ensure you have the datasets in `csv_files/`  
 4. Run all cells => outputs will appear in `outputs/` folder  
